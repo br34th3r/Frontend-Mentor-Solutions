@@ -1,0 +1,14 @@
+{
+  "name": "frontend-mentor-challenges",
+  "version": "1.0.0",
+  "description": "A series of solutions to the Frontend Mentor challenges written by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "br34th3r",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
